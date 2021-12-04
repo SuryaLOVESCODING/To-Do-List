@@ -1,0 +1,14 @@
+#todo{
+    position:relative;
+    left:0%;
+    color:red;
+    font-size:20px;
+    
+}
+
+#delete{
+    position:relative;
+    left:50%;;
+    top:-36px;
+    cursor:pointer;
+}
